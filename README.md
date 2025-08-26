@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align=center>Hello everyone, I'm sorry to the rest.</h1>
 
-<!--
-**Dresny/Dresny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height=10/>
 
-Here are some ideas to get you started:
+<h3 align=center>hi, I'm ilya. I'm a fullstack, game developer, 3d modeler, designer, and just a cool guy";)</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+  <img src='https://skillicons.dev/icons?i=react' height=40 />
+  <img width=6/>
+  <img src='https://skillicons.dev/icons?i=py' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=pycharm' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=js' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=css' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=cpp' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=androidstudio' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=windows' height=40 />
+</div>
+
+###
+  
+<div align=center>
+  <img src='https://skillicons.dev/icons?i=java' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=html' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=visualstudio' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=godot' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=blender' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=unreal' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=unity' height=40 />
+</div>
+
+<img height=10/>
