@@ -38,6 +38,8 @@
   <img src='https://skillicons.dev/icons?i=unreal' height=40 />
   <img width=6 />
   <img src='https://skillicons.dev/icons?i=unity' height=40 />
+  <img width=6 />
+  <img src='https://skillicons.dev/icons?i=ai' height=40 />
 </div>
 
 <img height=10/>
