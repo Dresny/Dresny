@@ -2,7 +2,7 @@
 
 <img height=10/>
 
-<h3 align=center>hi, I'm ilya. I'm a fullstack, game developer, 3d modeler, designer, and just a cool guy";)</h3>
+<h3 align=center>fullstack, game developer, 3d modeler, designer, and so one")</h3>
 
 <div align=center>
   <img src='https://skillicons.dev/icons?i=react' height=40 />
@@ -40,6 +40,9 @@
   <img src='https://skillicons.dev/icons?i=unity' height=40 />
   <img width=6 />
   <img src='https://skillicons.dev/icons?i=ai' height=40 />
+</div>
+<div align=center><br>
+  <img src='https://avatars.mds.yandex.net/i?id=4964fa5d3bf9156caee75d0d0f4f58c8_l-4245511-images-thumbs&n=13' height=400 />
 </div>
 
 <img height=10/>
